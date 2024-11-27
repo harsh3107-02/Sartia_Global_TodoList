@@ -20,7 +20,7 @@ A simple and visually appealing To-Do List application built with React.js and R
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/react-todo-list.git
+   git clone https://github.com/harsh3107-02/Sartia_Global_TodoList.git
    cd react-todo-list
 2. **Install Dependencies**
    ```bash
@@ -32,7 +32,7 @@ A simple and visually appealing To-Do List application built with React.js and R
    Open your browser and navigate to http://localhost:3000.
 
 ### Deployment
-Deployed Application URL: https://your-app-domain.com
+Deployed Application URL: https://cool-cocada-42e472.netlify.app/
 
 ### File Structure
 ```bash
